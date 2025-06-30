@@ -81,6 +81,6 @@ Vous pouvez les installer via pip si nécessaire :
 pip install pandas numpy matplotlib seaborn
 ```
 
-Assurez-vous également que les fichiers de données CSV (mentionnés dans la section "Données") sont présents dans un sous-dossier nommé `Data/` par rapport à l'emplacement du notebook, ou modifiez les chemins de chargement des fichiers dans le notebook en conséquence.
+Assurez-vous également que les fichiers de données CSV  sont présents dans un sous-dossier nommé `Data/` par rapport à l'emplacement du notebook, ou modifiez les chemins de chargement des fichiers dans le notebook en conséquence.
 
 Une fois l'environnement configuré, vous pouvez ouvrir et exécuter le notebook en utilisant Jupyter Notebook ou JupyterLab.
