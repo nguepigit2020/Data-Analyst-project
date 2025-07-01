@@ -58,7 +58,7 @@ Le projet suit une méthodologie d'analyse de données structurée, comprenant l
     *   Identification des catégories de produits générant le plus de retards de livraison.
     *   Calcul du nombre moyen de jours de retard par catégorie de produit.
 
-## Principaux Résultats/Visualisations (Aperçu)
+## Principaux Résultats/Visualisations
 
 Quelques-unes des visualisations et analyses clés incluent :
 
